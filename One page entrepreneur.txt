@@ -3,3 +3,9 @@ identification of business plans
 reception
 -----------------
 upload business plans
+
+Extraer información
+
+------------
+--
+upload
